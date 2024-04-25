@@ -29,7 +29,7 @@ body {
 }
 
 header {
-    background-color: #ff69b4;
+    background-color: #0000;
     color: #fff;
     padding: 20px 0;
 }

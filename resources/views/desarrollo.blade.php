@@ -128,24 +128,24 @@ footer {
     <section class="main-content">
         <div class="container">
         <article>
-            <h2>Título del Artículo 1</h2>
+            <h2>Mejorar habilidades de programación: Un camino hacia el éxito</h2>
             <p class="date">Publicado el 25 de Abril, 2024</p>
-            <p class="summary">Este es un breve resumen del artículo. Aquí puedes describir el contenido principal del artículo para atraer a los lectores.</p>
+            <p class="summary">Descubre cómo dominar nuevas tecnologías y lenguajes de programación para impulsar tu carrera en el desarrollo web. Este artículo te guiará a través de consejos prácticos y recursos útiles.</p>
             <a href="#" class="read-more">Leer más</a>
         </article>
 
         <!-- Ejemplo de artículo 2 -->
         <article>
-            <h2>Título del Artículo 2</h2>
+            <h2>Productividad y gestión del tiempo: Claves para un trabajo eficiente</h2>
             <p class="date">Publicado el 24 de Abril, 2024</p>
-            <p class="summary">Este es otro breve resumen del artículo. Aquí puedes describir el contenido principal del artículo para atraer a los lectores.</p>
+            <p class="summary">Aprende técnicas efectivas para aumentar tu productividad y manejar mejor tu tiempo. Este artículo ofrece estrategias y herramientas para mejorar tu rendimiento diario y alcanzar tus metas profesionales.</p>
             <a href="#" class="read-more">Leer más</a>
         </article>
 
         <article>
-            <h2>Título del Artículo 2</h2>
-            <p class="date">Publicado el 24 de Abril, 2024</p>
-            <p class="summary">Este es otro breve resumen del artículo. Aquí puedes describir el contenido principal del artículo para atraer a los lectores.</p>
+            <h2>Salud mental y bienestar: Cuidado personal para un desarrollo integral</h2>
+            <p class="date">Publicado el 23 de Abril, 2024</p>
+            <p class="summary">Explora la importancia de la salud mental en el desarrollo personal y profesional. Este artículo te ofrece consejos y recursos para cuidar tu bienestar emocional y mental, contribuyendo a un estilo de vida más equilibrado y satisfactorio.</p>
             <a href="#" class="read-more">Leer más</a>
         </article>
         </div>
