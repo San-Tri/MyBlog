@@ -128,24 +128,24 @@ footer {
     <section class="main-content">
         <div class="container">
         <article>
-            <h2>Pintura y Dibujo: Expresión Artística en Acción</h2>
+            <h2>Mejorar el rendimiento laboral: Estrategias efectivas para el éxito</h2>
             <p class="date">Publicado el 25 de Abril, 2024</p>
-            <p class="summary">Aprende sobre la importancia de mantener un estilo de vida saludable y cómo el fitness puede ser una parte integral de tu vida diaria. Este artículo ofrece consejos y rutinas para mejorar tu salud física y mental.</p>
+            <p class="summary">Descubre técnicas y consejos para aumentar tu productividad y eficiencia en el trabajo. Este artículo te ofrece una guía paso a paso para optimizar tu desempeño laboral y alcanzar tus metas profesionales.</p>
             <a href="#" class="read-more">Leer más</a>
         </article>
 
         <!-- Ejemplo de artículo 2 -->
         <article>
-            <h2>Fitness y Salud: Un Viaje hacia la Mejor Versión de Ti</h2>
+            <h2>Networking y relaciones profesionales: Cómo construir una red sólida</h2>
             <p class="date">Publicado el 24 de Abril, 2024</p>
-            <p class="summary">Aprende técnicas efectivas para aumentar tu productividad y manejar mejor tu tiempo. Este artículo ofrece estrategias y herramientas para mejorar tu rendimiento diario y alcanzar tus metas profesionales.</p>
+            <p class="summary">Aprende cómo el networking puede ser una herramienta poderosa para tu desarrollo profesional. Este artículo te guía a través de estrategias efectivas para construir y mantener relaciones profesionales valiosas.</p>
             <a href="#" class="read-more">Leer más</a>
         </article>
 
         <article>
-            <h2>Fotografía y Viajes: Capturando Momentos y Creando Recuerdos</h2>
+            <h2>Desarrollo de habilidades y aprendizaje continuo: La clave para el crecimiento profesional</h2>
             <p class="date">Publicado el 23 de Abril, 2024</p>
-            <p class="summary">Explora el mundo a través de la lente de una cámara. Este artículo te ofrece consejos sobre cómo mejorar tus habilidades fotográficas y cómo viajar de manera más consciente y creativa.</p>
+            <p class="summary">Explora la importancia del aprendizaje continuo y cómo desarrollar nuevas habilidades puede abrirte nuevas oportunidades. Este artículo ofrece recursos y consejos para fomentar el aprendizaje y el crecimiento profesional.</p>
             <a href="#" class="read-more">Leer más</a>
         </article>
         </div>

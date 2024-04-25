@@ -57,7 +57,43 @@ nav ul li a:hover {
 }
 
 .main-content {
-    padding: 40px 0;
+    background-image: url(https://w0.peakpx.com/wallpaper/630/881/HD-wallpaper-wanderer-fairies-sunset-fantasy-world-mountain-clouds-forest-fantasy.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 17px 0;A
+    text-align: center;
+    height: calc(100vh - 130px);
+}
+
+article {
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.date {
+    font-size: 0.8em;
+    color: #888;
+    margin-bottom: 10px;
+}
+
+.summary {
+    margin-bottom: 10px;
+}
+
+.read-more {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.read-more:hover {
+    background-color: #555;
 }
 
 footer {
@@ -91,7 +127,27 @@ footer {
     
     <section class="main-content">
         <div class="container">
-            <!-- Aquí irán los artículos del blog -->
+        <article>
+            <h2>10 Pasos para una Rutina Matutina que Revolucione tu Día</h2>
+            <p class="date">Publicado el 25 de Abril, 2024</p>
+            <p class="summary">Descubre cómo puedes transformar tus mañanas con esta guía detallada que te ayudará a establecer una rutina matutina que impulse tu productividad, mejore tu bienestar emocional y te prepare para enfrentar el día con energía y enfoque.</p>
+            <a href="#" class="read-more">Leer más</a>
+        </article>
+
+        <!-- Ejemplo de artículo 2 -->
+        <article>
+            <h2>Viajar Ligero: Consejos para Empacar de Forma Eficiente</h2>
+            <p class="date">Publicado el 24 de Abril, 2024</p>
+            <p class="summary">¿Te agobia la idea de empacar para tus viajes? En este artículo, te ofrecemos consejos prácticos y trucos inteligentes para maximizar el espacio en tu equipaje, minimizar el estrés de empacar y asegurarte de tener todo lo esencial para disfrutar al máximo de tus aventuras sin cargar con exceso de peso.</p>
+            <a href="#" class="read-more">Leer más</a>
+        </article>
+
+        <article>
+            <h2>"Mindfulness en la Vida Cotidiana: Cómo Integrar la Atención Plena en tu Rutina"</h2>
+            <p class="date">Publicado el 23 de Abril, 2024</p>
+            <p class="summary">Explora el poder transformador del mindfulness y aprende cómo puedes incorporar la atención plena en tu vida diaria para reducir el estrés, mejorar la concentración y cultivar una mayor conexión contigo mismo y con el mundo que te rodea. Desde prácticas simples hasta consejos para aplicarlo en el trabajo y en casa, descubre cómo vivir con mayor plenitud en cada momento.</p>
+            <a href="#" class="read-more">Leer más</a>
+        </article>
         </div>
     </section>
 
