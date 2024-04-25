@@ -57,7 +57,43 @@ nav ul li a:hover {
 }
 
 .main-content {
-    padding: 40px 0;
+    background-image: url(https://img.freepik.com/premium-photo/gloomy-atmospheric-dark-realistic-landscape-mystic-horror-spooky-scary-surreal-dramatic-scene_21085-7375.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 17px 0;A
+    text-align: center;
+    height: calc(100vh - 130px);
+}
+
+article {
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.date {
+    font-size: 0.8em;
+    color: #888;
+    margin-bottom: 10px;
+}
+
+.summary {
+    margin-bottom: 10px;
+}
+
+.read-more {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.read-more:hover {
+    background-color: #555;
 }
 
 footer {
@@ -91,7 +127,27 @@ footer {
     
     <section class="main-content">
         <div class="container">
-            <!-- Aquí irán los artículos del blog -->
+        <article>
+            <h2>Pintura y Dibujo: Expresión Artística en Acción</h2>
+            <p class="date">Publicado el 25 de Abril, 2024</p>
+            <p class="summary">Aprende sobre la importancia de mantener un estilo de vida saludable y cómo el fitness puede ser una parte integral de tu vida diaria. Este artículo ofrece consejos y rutinas para mejorar tu salud física y mental.</p>
+            <a href="#" class="read-more">Leer más</a>
+        </article>
+
+        <!-- Ejemplo de artículo 2 -->
+        <article>
+            <h2>Fitness y Salud: Un Viaje hacia la Mejor Versión de Ti</h2>
+            <p class="date">Publicado el 24 de Abril, 2024</p>
+            <p class="summary">Aprende técnicas efectivas para aumentar tu productividad y manejar mejor tu tiempo. Este artículo ofrece estrategias y herramientas para mejorar tu rendimiento diario y alcanzar tus metas profesionales.</p>
+            <a href="#" class="read-more">Leer más</a>
+        </article>
+
+        <article>
+            <h2>Fotografía y Viajes: Capturando Momentos y Creando Recuerdos</h2>
+            <p class="date">Publicado el 23 de Abril, 2024</p>
+            <p class="summary">Explora el mundo a través de la lente de una cámara. Este artículo te ofrece consejos sobre cómo mejorar tus habilidades fotográficas y cómo viajar de manera más consciente y creativa.</p>
+            <a href="#" class="read-more">Leer más</a>
+        </article>
         </div>
     </section>
 

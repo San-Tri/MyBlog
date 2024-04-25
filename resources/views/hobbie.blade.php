@@ -128,24 +128,24 @@ footer {
     <section class="main-content">
         <div class="container">
         <article>
-            <h2>Mejorar habilidades de programación: Un camino hacia el éxito</h2>
+            <h2>Pintura y Dibujo: Expresión Artística en Acción</h2>
             <p class="date">Publicado el 25 de Abril, 2024</p>
-            <p class="summary">Descubre cómo dominar nuevas tecnologías y lenguajes de programación para impulsar tu carrera en el desarrollo web. Este artículo te guiará a través de consejos prácticos y recursos útiles.</p>
+            <p class="summary">Aprende sobre la importancia de mantener un estilo de vida saludable y cómo el fitness puede ser una parte integral de tu vida diaria. Este artículo ofrece consejos y rutinas para mejorar tu salud física y mental.</p>
             <a href="#" class="read-more">Leer más</a>
         </article>
 
         <!-- Ejemplo de artículo 2 -->
         <article>
-            <h2>Productividad y gestión del tiempo: Claves para un trabajo eficiente</h2>
+            <h2>Fitness y Salud: Un Viaje hacia la Mejor Versión de Ti</h2>
             <p class="date">Publicado el 24 de Abril, 2024</p>
             <p class="summary">Aprende técnicas efectivas para aumentar tu productividad y manejar mejor tu tiempo. Este artículo ofrece estrategias y herramientas para mejorar tu rendimiento diario y alcanzar tus metas profesionales.</p>
             <a href="#" class="read-more">Leer más</a>
         </article>
 
         <article>
-            <h2>Salud mental y bienestar: Cuidado personal para un desarrollo integral</h2>
+            <h2>Fotografía y Viajes: Capturando Momentos y Creando Recuerdos</h2>
             <p class="date">Publicado el 23 de Abril, 2024</p>
-            <p class="summary">Explora la importancia de la salud mental en el desarrollo personal y profesional. Este artículo te ofrece consejos y recursos para cuidar tu bienestar emocional y mental, contribuyendo a un estilo de vida más equilibrado y satisfactorio.</p>
+            <p class="summary">Explora el mundo a través de la lente de una cámara. Este artículo te ofrece consejos sobre cómo mejorar tus habilidades fotográficas y cómo viajar de manera más consciente y creativa.</p>
             <a href="#" class="read-more">Leer más</a>
         </article>
         </div>
